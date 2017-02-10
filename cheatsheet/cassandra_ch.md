@@ -1,4 +1,4 @@
-#  Kafka Cheatingsheet 
+#  Cassandra Cheatingsheet 
 
 ## Start Cassandra in Docker 
 ```sh
